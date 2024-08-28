@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-I'm Aaryan Tiwari, a passionate UI/UX Designer and Web Developer with a strong foundation in Data Structures and Algorithms. On track to graduate with B.Tech (CSE) from KIIT University Bhubaneswar in 2025. I leverage my strong foundation in design principles and a keen eye for detail to craft efficient, scalable, and user-friendly solutions. As a quick learner with a problem-solving mindset, I'm eager to contribute to the creative and technical world by bringing your ideas to life! 
+I'm Aaryan Tiwari, a passionate UI/UX Designer and Web Developer with a strong foundation in DSA. On track to graduate with B.Tech (CSE) from KIIT University Bhubaneswar in 2025. I leverage my strong foundation in design principles and a keen eye for detail to craft efficient, scalable, and user-friendly solutions. As a quick learner with a problem-solving mindset, I'm eager to contribute to the creative and technical world by bringing your ideas to life! 
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
